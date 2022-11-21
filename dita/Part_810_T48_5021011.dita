@@ -8,12 +8,14 @@
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           38 U.S.C. 8127 and 8128; 40 U.S.C. 121(c) and (d); and 48 CFR 1.301-1.304.
+                           38 U.S.C. 8127-8128; 40 U.S.C. 121(c); 41 U.S.C. 1121(c)(3); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
 
                         </p>
          <p>
             <ph class="- topic/ph ">Source: </ph>
-                           74 FR 64630, Dec. 8, 2009, unless otherwise noted.
+                           87 FR 63004, Oct. 18, 2022, unless otherwise noted.
+
+
 
 
 
@@ -22,13 +24,19 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_810_001_T48_5021011011.dita#Section_810_001_T48_5021011011">810.001 Market research policy.</xref>
+                        href="Section_810_000_T48_5021011011.dita#Section_810_000_T48_5021011011">810.000 Scope of part.</xref>
                </p>
             </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_810_002_T48_5021011012.dita#Section_810_002_T48_5021011012">810.002 Market research procedures.</xref>
+                        href="Section_810_001_T48_5021011012.dita#Section_810_001_T48_5021011012">810.001 Policy.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_810_001_70_T48_5021011013.dita#Section_810_001_70_T48_5021011013">810.001-70 Market research policy - use of VA Vendor Information Pages.</xref>
                </p>
             </li>
          </ul>

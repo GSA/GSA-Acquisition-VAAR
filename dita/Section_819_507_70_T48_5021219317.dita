@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_819_507_70_T48_5021219317">
+      <title class="- topic/title ">
+         <ph props="autonumber">819.507-70</ph> Additional VA solicitation provisions and contract clauses.</title>
+      <conbody>
+         <p xtrc="P">For contracts, orders, or BPAs to be issued as SDVOSB/VOSB reserve, tiered evaluation, set-aside, or sole source, see 819.7011. Also see subparts <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_808_4_T48_5021091"
+                  href="Subpart_808_4_T48_5021091.dita#Subpart_808_4_T48_5021091">808.4</xref> and <xref outputclass="fm:ParaNumOnly"
+                  class="- topic/xref "
+                  base="Subpart_815_3_T48_50211161"
+                  href="Subpart_815_3_T48_50211161.dita#Subpart_815_3_T48_50211161">815.3</xref> and 819.203-70 for requirements and clauses applicable to VA small business set-asides.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>
