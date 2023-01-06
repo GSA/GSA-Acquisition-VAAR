@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_846_T48_5021540">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 846</ph> - QUALITY ASSURANCE</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1121; 41 U.S.C. 1303; 41 U.S.C. 1702; and 48 CFR 1.301-1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_846_1_T48_50215401.dita#Subpart_846_1_T48_50215401">Subpart 846.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_101_T48_5021540111.dita#Section_846_101_T48_5021540111">846.101 Definition.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_846_3_T48_50215402.dita#Subpart_846_3_T48_50215402">Subpart 846.3 - Contract Clauses</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_370_T48_5021540211.dita#Section_846_370_T48_5021540211">846.370 Clauses for supplies, equipment or perishable goods.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_370_1_T48_5021540212.dita#Section_846_370_1_T48_5021540212">846.370-1 Rejected goods.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_370_2_T48_5021540213.dita#Section_846_370_2_T48_5021540213">846.370-2 Frozen processed foods.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_370_3_T48_5021540214.dita#Section_846_370_3_T48_5021540214">846.370-3 Noncompliance with packaging, packing, and/or marking requirements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_370_4_T48_5021540215.dita#Section_846_370_4_T48_5021540215">846.370-4 Purchase of shellfish.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_846_4_T48_50215403.dita#Subpart_846_4_T48_50215403">Subpart 846.4 - Government Contract Quality Assurance</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_408_70_T48_5021540311.dita#Section_846_408_70_T48_5021540311">846.408-70 Inspection of subsistence.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_470_T48_5021540312.dita#Section_846_470_T48_5021540312">846.470 Use of commercial organizations for inspections and grading services.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_471_T48_5021540313.dita#Section_846_471_T48_5021540313">846.471 Food service equipment.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_846_7_T48_50215404.dita#Subpart_846_7_T48_50215404">Subpart 846.7 - Warranties</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_846_702_70_T48_5021540411.dita#Section_846_702_70_T48_5021540411">846.702-70 Guarantee period services and specifications.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>
