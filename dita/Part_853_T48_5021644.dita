@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <topic id="Part_853_T48_5021644">
+      <title class="- topic/title ">
+         <ph props="autonumber">PART 853</ph> - FORMS</title>
+      <body>
+         <p>
+            <ph class="- topic/ph ">Authority: </ph>
+                           40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
+
+                        </p>
+         <p>
+            <ph class="- topic/ph ">Source: </ph>
+                           73 FR 2717, Jan. 15, 2008, unless otherwise noted.
+
+
+
+                        </p>
+         <ul otherprops="TOC">
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Section_853_000_T48_5021644011.dita#Section_853_000_T48_5021644011">853.000 Scope of part.</xref>
+               </p>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_853_1_T48_50216441.dita#Subpart_853_1_T48_50216441">Subpart 853.1 - General</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_107_T48_5021644111.dita#Section_853_107_T48_5021644111">853.107 Obtaining forms.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_853_2_T48_50216442.dita#Subpart_853_2_T48_50216442">Subpart 853.2 - Prescription of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_219_T48_5021644211.dita#Section_853_219_T48_5021644211">853.219 Small business forms.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_236_T48_5021644212.dita#Section_853_236_T48_5021644212">853.236 Construction and architect-engineer contracts.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_236_70_T48_5021644213.dita#Section_853_236_70_T48_5021644213">853.236-70 VA Form 6298, Architect-Engineer Fee Proposal.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_236_71_T48_5021644214.dita#Section_853_236_71_T48_5021644214">853.236-71 VA Form 2138, Order for Supplies or Services (Including Task Orders for Construction or A-E Services).</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_236_72_T48_5021644215.dita#Section_853_236_72_T48_5021644215">853.236-72 VA Form 10101, Contractor Production Report.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_853_3_T48_50216443.dita#Subpart_853_3_T48_50216443">Subpart 853.3 - Illustration of Forms</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_853_300_T48_5021644311.dita#Section_853_300_T48_5021644311">853.300 Scope of subpart.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+         </ul>
+      </body>
+   </topic>
+</dita>

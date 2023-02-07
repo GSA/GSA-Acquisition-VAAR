@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_852_235_74_T48_50216432155">
+      <title class="- topic/title ">
+         <ph props="autonumber">852.235-74</ph> Acknowledgement of Support and Disclaimer.</title>
+      <conbody>
+         <p xtrc="P">As prescribed at 835.003-75, insert the following clause:
+</p>
+         <p xtrc="HD1">Acknowledgement of Support and Disclaimer (DEC 2022)
+</p>
+         <p outputclass="List1">(a) The Contractor shall include an acknowledgment of the Government's support in the publication of any material based on or developed under this contract, stated in the following terms: This material is based upon work supported by the (name of contracting agency) under this VA contract.
+</p>
+         <p outputclass="List1">(b) All material, except scientific articles or papers published in scientific journals, must, in addition to any notices or disclaimers by the Contractor, also contain the following disclaimer:
+</p>
+         <p xtrc="P">Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the VA.
+</p>
+         <p xtrc="FP">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>
