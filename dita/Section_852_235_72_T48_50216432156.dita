@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_852_235_72_T48_50216432156">
+      <title class="- topic/title ">
+         <ph props="autonumber">852.235-72</ph> Animal Welfare.</title>
+      <conbody>
+         <p xtrc="P">As prescribed in 835.003-73, insert the following clause:
+</p>
+         <p xtrc="HD1">Animal Welfare (DEC 2022)
+</p>
+         <p outputclass="List1">(a) The Contractor shall - 
+</p>
+         <p outputclass="List2">(1) Use the Veterans Affairs (VA), Office of Research Oversight (ORO) Laboratory Animal Welfare Checklist;
+</p>
+         <p outputclass="List2">(2) Comply with the United States Department of Agriculture (USDA) Animal Welfare Act and Animal Welfare Regulations at <i>https://www.aphis.usda.gov/animal_welfare,</i> and the Animal Welfare Information Center's (AWIC) information for improved animal care and use in research, testing, and teaching provided at <i>https://www.nal.usda.gov/awic;</i>
+                              </p>
+         <p outputclass="List2">(3) Develop and provide to the Contracting Officer a written plan of providing adequate veterinary care to laboratory animals, including - 
+</p>
+         <p outputclass="List3">(i) The frequency of visits; and
+</p>
+         <p outputclass="List3">(ii) Provisions for after-hours, weekend and holiday veterinary coverage.
+</p>
+         <p outputclass="List1">(b) The Contracting Officer may immediately suspend the work by issuance of a stop work order and suspend further payments under this contract for failure to comply with the requirements of this clause.
+</p>
+         <p outputclass="List1">(c) The suspension will stay in effect until the Contractor complies with the requirements. Failure to complete corrective action within the time specified by the Contracting Officer may result in termination of this contract.
+</p>
+         <p outputclass="List1">(d) The Contractor shall include the substance of this clause, in all subcontracts involving research and development, testing, evaluation or training that use live vertebrate animals.
+</p>
+         <p xtrc="FP">(End of clause)
+</p>
+      </conbody>
+   </concept>
+</dita>

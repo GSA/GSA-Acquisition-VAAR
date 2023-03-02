@@ -3,6 +3,7 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic outputclass="SubPart" id="Subpart_811_4_T48_50210124">
-      <title class="- topic/title " outputclass="Subpart">Subparts 811.4 - 811.6 [Reserved]</title>
+      <title class="- topic/title " outputclass="Subpart">
+         <ph props="autonumber">Subpart 811.4</ph> [Reserved]</title>
    </topic>
 </dita>

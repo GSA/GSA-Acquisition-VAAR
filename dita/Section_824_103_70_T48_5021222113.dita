@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_824_103_70_T48_5021222113">
+      <title class="- topic/title ">
+         <ph props="autonumber">824.103-70</ph> Protection of privacy - general requirements and procedures related to Business Associate Agreements.</title>
+      <conbody>
+         <p xtrc="P">To ensure compliance with unique responsibilities to protect protected health information (PHI), contractors performing under VA contracts subject to unique PHI and the Health Insurance Portability and Accountability Act of 1996 (HIPAA) shall comply with requirements and the clause (852.204-71, Information and Information Systems Security) prescribed at 804.1903.
+</p>
+         <p outputclass="List1">(a) <i>HIPAA Business Associate Agreement requirement.</i> Under the HIPAA Privacy and Security Rules (see 45 CFR part 160), a covered entity (Veterans Health Administration (VHA)) must have a satisfactory assurance that its PHI will be safeguarded from misuse. To do so, a covered entity enters into a Business Associate Agreement (BAA) with a contractor (now the business associate), which obligates the business associate to only use the covered entity's PHI for the purposes for which it was engaged, provide the same protections and safeguards as is required from the covered entity, and agree to the same disclosure restrictions to PHI that is required of the covered entity in situations where a contractor - 
+</p>
+         <p outputclass="List2">(1) Creates, receives, maintains, or transmits VHA PHI or that will store, generate, access, exchange, process, or utilize such PHI in order to perform certain health care operations activities or functions on behalf of the covered entity; or
+</p>
+         <p outputclass="List2">(2) Provides one or more of the services specified in the HIPAA Privacy Rule to or for the covered entity.
+</p>
+         <p outputclass="List1">(b) <i>Veterans Health Administration (VHA) - a HIPAA covered entity.</i> VHA is the only administration of the Department of Veterans Affairs that is a HIPAA covered entity under the HIPAA Privacy Rule.
+</p>
+         <p outputclass="List1">(c) <i>Contractors or entities required to execute BAAs for contracts and other agreements become VHA business associates.</i> BAAs are issued by VHA or may be issued by other VA programs in support of VHA. The HIPAA Privacy Rule requires VHA to execute compliant BAAs with persons or entities that create, receive, maintain, or transmit VHA PHI or that will store, generate, access, exchange, process, or utilize such PHI in order to perform certain activities, functions or services to, for, or on behalf of VHA.
+</p>
+         <p outputclass="List2">(1) There may be other VA components or staff offices which also provide certain services and support to VHA and must receive PHI in order to do so. If these components award contracts or enter into other agreements, purchase/delivery orders, modifications, and issue Governmentwide purchase card transactions to help in the delivery of these services to VHA, they will also fall within the requirement to obtain a satisfactory assurance from these contractors by executing a BAA.
+</p>
+         <p outputclass="List2">(2) Contractors or other entities supporting VHA required to create, receive, maintain, or transmit VHA PHI shall be required to execute a BAA as mandated by the HIPAA Privacy Rule and requested by the contracting officer, the contracting officer's representative (COR) or the cognizant privacy officer - 
+</p>
+         <p outputclass="List3">(i) Whether via a contract or agreement with VHA; or
+</p>
+         <p outputclass="List3">(ii) Whether provided from or through another VA administration or staff activity contract for supplies, services or support that involves performing a certain activity, function or service to, for, or on behalf of VHA (<i>see</i> VA Directive 6066, Protected Health Information (PHI) and Business Associate Agreements Management).
+</p>
+         <p outputclass="List1">(d) <i>BAA requirement flow down to subcontractors.</i> A prime contractor required to execute a BAA shall also obtain a satisfactory assurance, in the form of a BAA, that any of its subcontractors who will also create, receive, maintain, or transmit VHA PHI or that will store, generate, access, exchange, process, or utilize such PHI will comply with HIPAA requirements to the same degree as the contractor. A contractor employing a subcontractor who creates, receives, maintains, or transmits VHA PHI or that will store, generate, access, exchange, process, or utilize such VHA PHI under a contract or agreement is required to execute a BAA with each of its subcontractors which also obligates the subcontractor (<i>i.e.,</i> also a business associate) to provide the same protections and safeguards and agree to the same disclosure restrictions to VHA's PHI that is required of the covered entity and the prime contractor.
+</p>
+      </conbody>
+   </concept>
+</dita>

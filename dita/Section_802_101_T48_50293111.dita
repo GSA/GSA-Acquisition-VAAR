@@ -10,6 +10,12 @@
                                  <i>A/E</i> means architect/engineer.
 </p>
          <p xtrc="P">
+                                 <i>Business associate</i> (or <i>associate</i>) means an entity, including an individual (other than a member of the workforce of a covered entity), company, organization, or another covered entity, as defined by the Health Insurance Portability and Accountability Act of 1996 (HIPAA) (Pub. L. 104-191) Privacy Rule (45 CFR part 160), that performs or assists in the performance of a function or activity on behalf of the Veterans Health Administration (VHA) that involves the creating, receiving, maintaining, transmitting of, or having access to, protected health information (PHI), or that provides to or for VHA, certain services as specified in the HIPAA Privacy Rule that involve the disclosure of PHI to a contractor by VHA. The term also includes a subcontractor of a business associate that creates, receives, maintains, or transmits PHI or that stores, generates, accesses, exchanges, processes, or utilizes such PHI on behalf of the business associate.
+</p>
+         <p xtrc="P">
+                                 <i>Business Associate Agreement (BAA)</i> means the agreement, as dictated by the HIPAA Privacy Rule (45 CFR part 160), between VHA and a business associate, which must be entered into in addition to the underlying contract for services and before any release of PHI can be made to the business associate, in order for the business associate to perform certain functions or activities on behalf of VHA.
+</p>
+         <p xtrc="P">
                                  <i>Chief Acquisition Officer</i> (CAO) means the Principal Executive Director, Office of Acquisition, Logistics, and Construction.
 </p>
          <p xtrc="P">
@@ -22,13 +28,28 @@
                                  <i>GAO</i> means the Government Accountability Office.
 </p>
          <p xtrc="P">
+                                 <i>Gray market items</i> means original equipment manufacturer goods intentionally or unintentionally sold outside an authorized sales territory or sold by non-authorized dealers in an authorized sales territory.
+</p>
+         <p xtrc="P">
                                  <i>HCA</i> means the Head of the Contracting Activity, an individual appointed in writing by the SPE.
+</p>
+         <p xtrc="P">
+                                 <i>Information system</i> means, pursuant to 38 U.S.C. 5727, a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information whether automated or manual.
+</p>
+         <p xtrc="P">
+                                 <i>Information technology</i> (<i>see</i> FAR 2.101) also means Information and Communication Technology (ICT).
+</p>
+         <p xtrc="P">
+                                 <i>Information technology-related contracts</i> means those contracts which include services (including support services) and related resources for information technology as defined in this section.
 </p>
          <p xtrc="P">
                                  <i>OGC</i> means the Office of the General Counsel.
 </p>
          <p xtrc="P">
                                  <i>Ordering officer</i> means the VA official authorized to order supplies and services against a FAR-based contract or agreement in accordance with the ordering limits identified in the contract or agreement or the specific ordering guide in accordance with 801.601(b).
+</p>
+         <p xtrc="P">
+                                 <i>Privacy officer</i> means the VA official with responsibility for implementing and oversight of privacy related policies and practices that impact a given VA acquisition.
 </p>
          <p xtrc="P">
                                  <i>Public Law (Pub. L.) 109-461</i> means the Veterans Benefits, Health Care and Information Technology Act of 2006, as codified in 38 U.S.C. 8127 and 8128.
@@ -38,6 +59,19 @@
                   class="- topic/xref "
                   base="Subpart_819_70_T48_50212197"
                   href="Subpart_819_70_T48_50212197.dita#Subpart_819_70_T48_50212197">819.70</xref> and listed in the Vendor Information Pages. The term is synonymous with VA or VIP-verified small business concerns owned and controlled by Veterans.
+</p>
+         <p xtrc="P">
+                                 <i>Security plan</i> means a formal document that provides an overview of the security requirements for an information system or an information security program and describes the security controls in place or planned for meeting those requirements.
+</p>
+         <p xtrc="P">
+                                 <i>Sensitive personal information</i> means, with respect to an individual, any information about the individual maintained by VA, including but not limited to the following:
+</p>
+         <p outputclass="List1">
+				</p>
+         <p outputclass="List2">(1) 
+			Education, financial transactions, medical history, and criminal or employment history.
+</p>
+         <p outputclass="List1">(2) Information that can be used to distinguish or trace the individual's identity, including but not limited to name, Social Security Number, date and place of birth, mother's maiden name, or biometric records.
 </p>
          <p xtrc="P">
                                  <i>Service-disabled veteran-owned small business (SDVOSB)</i> or small business concern owned and controlled by Veterans with service-connected disabilities has the same meaning as <i>service-disabled veteran-owned small business concern</i> defined in FAR 2.101, except that for acquisitions authorized by 38 U.S.C. 8127 and 8128 for the Veterans First Contracting Program, these businesses must be listed as verified in the VIP database. In addition, some SDVOSB listed in the VIP database may be owned and controlled by a surviving spouse. See definition of <i>surviving spouse</i> in this section.
@@ -78,7 +112,13 @@
                                  <i>VAAR</i> means the Department of Veterans Affairs Acquisition Regulation.
 </p>
          <p xtrc="P">
+                                 <i>VA Information Security Rules of Behavior for Organizational Users/VA National Rules of Behavior</i> means a set of VA rules that describes the responsibilities and expected behavior of users of VA information or information systems.
+</p>
+         <p xtrc="P">
                                  <i>VA Rule of Two</i> means the determination process mandated in 38 U.S.C. 8127(d)(1) whereby a contracting officer of the Department shall award contracts on the basis of competition restricted to small business concerns owned and controlled by veterans if the contracting officer has a reasonable expectation that two or more small business concerns owned and controlled by Veterans will submit offers and that the award can be made at a fair and reasonable price that offers best value to the United States. For purposes of this VA specific rule, a service-disabled veteran-owned small business (SDVOSB) or a veteran-owned small business (VOSB), must meet the eligibility requirements in 38 U.S.C. 8127(e), (f) and VAAR 819.7003 and be listed as verified in the Vendor Information Pages (VIP) database.
+</p>
+         <p xtrc="P">
+                                 <i>VA sensitive information</i> means all VA data, on any storage media or in any form or format, which requires protection due to the risk of harm that could result from inadvertent or deliberate disclosure, alteration, or destruction of the information and includes sensitive personal information. The term includes information where improper use or disclosure could adversely affect the ability of VA to accomplish its mission, proprietary information, records about individuals requiring protection under various confidentiality provisions such as the Privacy Act and the HIPAA Privacy Rule, and information that can be withheld under the Freedom of Information Act. Examples of VA sensitive information include the following: individually-identifiable medical, benefits, and personnel information; financial, budgetary, research, quality assurance, confidential commercial, critical infrastructure, investigatory, and law enforcement information; information that is confidential and privileged in litigation such as information protected by the deliberative process privilege, attorney work-product privilege, and the attorney-client privilege; and other information which, if released, could result in violation of law or harm or unfairness to any individual or group, or could adversely affect the national interest or the conduct of Federal programs.
 </p>
          <p xtrc="P">
                                  <i>Vendor Information Pages (VIP)</i> or <i>VIP database</i> means the Department of Veterans Affairs Office of Small and Disadvantaged Business Utilization (OSDBU) Center for Verification and Evaluation (CVE) Vendor Information Pages (VIP) database at <i>https://www.vetbiz.va.gov/vip/.</i> This site's database lists businesses that VA CVE has determined eligible for the Veterans First Contracting Program.

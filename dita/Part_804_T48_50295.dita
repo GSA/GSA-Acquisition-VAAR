@@ -8,9 +8,7 @@
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
-
-
+                           38 U.S.C. 5723-5724, 5725(a)-(c); 40 U.S.C. 121(c); 41 U.S.C. 1702; and 48 CFR 1.301 through 1.304.
 
                         </p>
          <p>
@@ -37,6 +35,38 @@
                      <p>
                         <xref outputclass="fm:TOC"
                               href="Section_804_1303_T48_50295211.dita#Section_804_1303_T48_50295211">804.1303 Contract clause.</xref>
+                     </p>
+                  </li>
+               </ul>
+            </li>
+            <li>
+               <p>
+                  <xref outputclass="fm:TOC"
+                        href="Subpart_804_19_T48_502953.dita#Subpart_804_19_T48_502953">Subpart 804.19 - Basic Safeguarding of Covered Contractor Information Systems</xref>
+               </p>
+               <ul otherprops="TOC">
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_804_1900_70_T48_50295311.dita#Section_804_1900_70_T48_50295311">804.1900-70 Scope of this subpart.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_804_1902_T48_50295312.dita#Section_804_1902_T48_50295312">804.1902 Applicability.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_804_1970_T48_50295313.dita#Section_804_1970_T48_50295313">804.1970 Information security policy - contractor general responsibilities.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_804_1903_T48_50295314.dita#Section_804_1903_T48_50295314">804.1903 Contract clause.</xref>
                      </p>
                   </li>
                </ul>

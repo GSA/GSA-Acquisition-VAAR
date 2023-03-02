@@ -4,14 +4,18 @@
 <dita>
    <concept outputclass="Section" id="Section_812_301_T48_5021013211">
       <title class="- topic/title ">
-         <ph props="autonumber">812.301</ph> Solicitation provisions and contract clauses for the acquisition of commercial items.</title>
+         <ph props="autonumber">812.301</ph> Solicitation provisions and contract clauses for the acquisition of commercial products and commercial services.</title>
       <conbody>
          <p props="Runin" outputclass="List1">(f)
 				</p>
          <p outputclass="List2">(1) 
-			Contracting officers shall insert the clause 852.212-70, Provisions and Clauses Applicable to VA Acquisition of Commercial Items, in all solicitations and contracts for commercial acquisitions and check only those provisions and clauses that apply to the individual acquisition.
+			Contracting officers shall insert the clause at 852.212-71, Gray Market and Counterfeit Items, in solicitations and contracts for new medical supplies, new medical equipment, new information technology equipment, and maintenance of medical or information technology equipment that includes replacement parts if used, refurbished, or remanufactured parts are unacceptable, when the associated solicitation includes FAR 52.212-1, Instruction to Offerors - Commercial Products and Commercial Services, and 52.212-2, Evaluation - Commercial Products and Commercial Services.
 </p>
-         <p outputclass="List2">(2) Contracting officers shall insert the clause 852.212-71, Gray Market Items, in solicitations and contracts for new medical equipment for VA Medical Centers and that include FAR provisions 52.212-1, Instruction to Offerors - Commercial Items, and 52.212-2, Evaluation - Commercial Items.
+         <p outputclass="List2">(2) Contracting officers shall insert the clause at 852.212-72, Gray Market and Counterfeit Items - Information Technology Maintenance Allowing Other-than-New Parts, in solicitations and contracts for the maintenance of information technology equipment that includes replacement parts, if used, refurbished, or remanufactured parts are acceptable, when the associated solicitation includes FAR 52.212-1, Instruction to Offerors - Commercial Products and Commercial Services, and 52.212-2, Evaluation - Commercial Products and Commercial Services.
+
+
+
+
 </p>
       </conbody>
    </concept>
