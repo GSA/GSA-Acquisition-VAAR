@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita>
+   <concept outputclass="Section" id="Section_839_106_70_T48_5021434115">
+      <title class="- topic/title ">
+         <ph props="autonumber">839.106-70</ph> Information security and privacy contract clauses.</title>
+      <conbody>
+         <p outputclass="List1">(a) Contracting officers shall insert the clause at 852.239-70, Security Requirements for Information Technology Resources, and the clause at 852.239-71, Information System Security Plan and Accreditation, in all solicitations, contracts, and orders exceeding the micro-purchase threshold that include information technology services.
+</p>
+         <p outputclass="List1">(b) Contracting officers shall insert the clause at 852.239-72, Information System Design and Development, in solicitations, contracts, orders, and agreements where services to perform information system design and development are required.
+</p>
+         <p outputclass="List1">(c) Contracting officers shall insert the clause at 852.239-73, Information System Hosting, Operation, Maintenance or Use, in solicitations, contracts, orders, and agreements where services to perform information system hosting, operation, maintenance, or use are required.
+</p>
+         <p outputclass="List1">(d) Contracting officers shall insert the clause at 852.239-74, Security Controls Compliance Testing, in solicitations, contracts, orders, and agreements, when the clause at 852.239-72 or 852.239-73 is inserted.
+
+
+</p>
+      </conbody>
+   </concept>
+</dita>

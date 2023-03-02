@@ -8,7 +8,9 @@
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
-                           5 U.S.C. 552a; 40 U.S.C. 121(c); 41 U.S.C. 1121(c); 41 U.S.C. 1702; 38 CFR 1.550-1.562 and 1.575-1.584; and 48 CFR 1.301-1.304.
+                           5 U.S.C. 552a; 38 U.S.C. 5723-5724, 5725(a)-(c); 40 U.S.C. 121(c); 41 U.S.C. 1121(c), 1702; 38 CFR 1.550 through 1.562 and 1.575 through 1.584; and 48 CFR 1.301 through 1.304.
+
+
 
 
 
@@ -37,6 +39,18 @@
                      <p>
                         <xref outputclass="fm:TOC"
                               href="Section_824_103_T48_5021222112.dita#Section_824_103_T48_5021222112">824.103 Procedures.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_824_103_70_T48_5021222113.dita#Section_824_103_70_T48_5021222113">824.103-70 Protection of privacy - general requirements and procedures related to Business Associate Agreements.</xref>
+                     </p>
+                  </li>
+                  <li>
+                     <p>
+                        <xref outputclass="fm:TOC"
+                              href="Section_824_103_71_T48_5021222114.dita#Section_824_103_71_T48_5021222114">824.103-71 Liquidated damages - protection of information.</xref>
                      </p>
                   </li>
                </ul>
