@@ -3,8 +3,8 @@
   PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
 <dita>
    <topic id="Part_813_T48_5021114">
-      <title class="- topic/title ">
-         <ph props="autonumber">PART 813</ph> - SIMPLIFIED ACQUISITION PROCEDURES</title>
+      <title class="- topic/title ">PART 813—SIMPLIFIED ACQUISITION PROCEDURES 
+</title>
       <body>
          <p>
             <ph class="- topic/ph ">Authority: </ph>
@@ -26,13 +26,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Section_813_003_70_T48_5021114011.dita#Section_813_003_70_T48_5021114011">813.003-70 General policy.</xref>
+                        href="Section_813_003-70_T48_5021114011.dita#Section_813_003-70_T48_5021114011">813.003-70 General policy.</xref>
                </p>
             </li>
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_813_1_T48_50211141.dita#Subpart_813_1_T48_50211141">Subpart 813.1 - Procedures</xref>
+                        href="Subpart_813_1_T48_50211141.dita#Subpart_813_1_T48_50211141">Subpart 813.1—Procedures</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
@@ -50,7 +50,7 @@
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_813_106_70_T48_5021114113.dita#Section_813_106_70_T48_5021114113">813.106-70 Soliciting competition, evaluation of quotations or offers, award and documentation - the Veterans First Contracting Program.</xref>
+                              href="Section_813_106-70_T48_5021114113.dita#Section_813_106-70_T48_5021114113">813.106-70 Soliciting competition, evaluation of quotations or offers, award and documentation—the Veterans First Contracting Program.</xref>
                      </p>
                   </li>
                </ul>
@@ -64,13 +64,13 @@
             <li>
                <p>
                   <xref outputclass="fm:TOC"
-                        href="Subpart_813_3_T48_50211143.dita#Subpart_813_3_T48_50211143">Subpart 813.3 - Simplified Acquisition Methods</xref>
+                        href="Subpart_813_3_T48_50211143.dita#Subpart_813_3_T48_50211143">Subpart 813.3—Simplified Acquisition Methods</xref>
                </p>
                <ul otherprops="TOC">
                   <li>
                      <p>
                         <xref outputclass="fm:TOC"
-                              href="Section_813_305_70_T48_5021114311.dita#Section_813_305_70_T48_5021114311">813.305-70 VA's imprest funds and third party drafts policy.</xref>
+                              href="Section_813_305-70_T48_5021114311.dita#Section_813_305-70_T48_5021114311">813.305-70 VA's imprest funds and third party drafts policy.</xref>
                      </p>
                   </li>
                </ul>
